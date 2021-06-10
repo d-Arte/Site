@@ -45,6 +45,7 @@ body {
     
     .header-right {
       float: none;
+  
     }
   }
 
@@ -68,8 +69,8 @@ body {
 
   .header-right {
     float: right;
-   margin-top: -5vw; 
-   margin-right: 33vw;
+   margin-top: -8.5vw; 
+   margin-right: 21.7vw;
     color:#ff793f;
     
   }
@@ -280,13 +281,14 @@ body {
     margin-top: -2vw; 
     margin-left: 3vw;
   }
-  .insta:hover,:focus {
+  .insta:hover {
     color:#ff793f;
   }
 
   /*cartao bloco 2 */
   .cartao_1{
     background-color: rgba(12, 15, 13, 0.37);
+    background-color: white;
     border-style: solid;
     border-color: black;
     margin-left: 47%;
@@ -301,10 +303,11 @@ body {
 
   .cartao_2{
     background-color: rgba(12, 15, 13, 0.37);
+    background-color: white;
     border-style: solid;
     border-color: black;
     margin-left: 7%;
-    margin-right: 45%;
+    margin-right: 47%;
   }
   .cartao_2:hover {
     color:#ff793f;
@@ -336,6 +339,7 @@ body {
  
   .bloco1_D{
     background-color: rgba(12, 15, 13, 0.37);
+    background-color: white;
     border-style: solid;
     border-color: black;
     margin-top: 5%;
@@ -350,6 +354,7 @@ body {
 
   .bloco1_D_1{
     background-color: rgba(12, 15, 13, 0.37);
+    background-color: white;
     border-style: solid;
     border-color: black;
     margin-top: 5%;
@@ -400,4 +405,42 @@ body {
         color: black;
         font-size:0.7cm;
         margin-top: 1%;
+      }      
+      .palavra_3{
+        text-align: center;
+        font-family: 'Open Sans Condensed', sans-serif;
+        color: black;
+        font-size:0.6cm;
+        margin-top: 3%;
+        margin-left: 10%;
+        margin-right: 10%;
       }
+      .palavra_4{
+        text-align: center;
+        font-family: 'Open Sans Condensed', sans-serif;
+        color: black;
+        font-size:0.5cm;
+        margin-top: 1%;
+      }      
+      .palavra_5{
+    
+        font-family: 'Open Sans Condensed', sans-serif;
+        color: #ff793f;
+        font-size:1cm;
+        margin-top: 1%;
+      }      
+      .palavra_6{
+        font-family: 'Open Sans Condensed', sans-serif;
+        color: black;
+        font-size:0.5cm;
+        margin-top: 1%;
+        margin-left: 1cm;
+      } 
+      .palavra_7{
+        font-family: 'Open Sans Condensed', sans-serif;
+        font-weight: bold;
+        color: black;
+        font-size:0.7cm;
+        margin-top: 1%;
+        margin-left: 1cm;
+      }           
